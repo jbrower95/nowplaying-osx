@@ -5,7 +5,7 @@
 //  Created by Gabe Ghearing on 6/30/09.
 //
 //
-//  Heavily modified by jdawg on 2/18/15.
+//  Heavily modified by Justin Brower on 2/18/15.
 //
 
 #import "SerialExample.h"
