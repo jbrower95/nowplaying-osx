@@ -1,5 +1,5 @@
 //
-// Prefix header for all source files of the 'Arduino Serial Example' target in the 'Arduino Serial Example' project
+// Prefix header for all source files of the 'Now Playing' target in the 'Now Playing' project
 //
 
 #ifdef __OBJC__
